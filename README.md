@@ -19,7 +19,7 @@ Sempre que eu souber de algo novo, uma forma de apresentar o codigo em Ação, e
 
 Então bora juntos conhecer essa ferramenta. 🤩
 
-# 
+
 <h1>
   <p align="center">  😎 A Estrada até aqui! 🤓</p>
   <p align="center"><img title="Readme" src="https://github.com/ozumaru/Ozumaru-Sublime-Text-/blob/main/Road_so_far.gif" alt="README" height="380" wight="240"></p>
