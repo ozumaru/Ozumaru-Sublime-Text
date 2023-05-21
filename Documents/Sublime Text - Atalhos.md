@@ -5,13 +5,9 @@ Esses foram os que eu venho armazendo e utilizando a finco, pois ajuda muito em 
 
 - Quando queremos **recortar**, **copiar** e **colar** uma palavra, somente selecionar a palavra, clicando no inicio dela e arrastando ou dando dois cliques, e executar atalhos abaixo.
 - Ou quando queremos Rercortar uma **Linha Inteira**, somente deixe o Cursor na Linha, e Executar o comando abaixo.
-    -  **Ctrl + X** **#Recortar**
-    -  **Ctrl + C** **#Copiar**
-    -  **Ctrl + V** **#Colar** 
-
-    - ${\color{red}Ctrl \space + \space X}$ **#Recortar**
-    - ${\color{red}Ctrl \space + \space C}$ **#Copiar**
-    - ${\color{red}Ctrl \space + \space V}$ **#Colar** 
+    - ${\color{green}Ctrl \space + \space X}$ **#Recortar**
+    - ${\color{green}Ctrl \space + \space C}$ **#Copiar**
+    - ${\color{green}Ctrl \space + \space V}$ **#Colar** 
     
 Esse atalho tem duas funções em cima de uma só.
  - Podemos Duplicar uma Linha inteira, somente deixando o cursor sem selecionar nenhuma palavra.
