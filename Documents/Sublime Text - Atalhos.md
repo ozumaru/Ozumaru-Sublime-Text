@@ -46,50 +46,32 @@ Mas também temos um atalho muito rapido para esse caminho todo dito acima, pore
 Esse atalho tem duas funções muito interessante.
  - Pode criar Cursores em pontos outros pontos do texto para editar
  - Ou clicar em outros Arquivos que estão na **Side Bar** para criar Comparações em Janelas
-    - CRTL + Click Esquerdo 
-    - ${\color{green}CRTL \space + \space V}$ - **#Colar** 
-
+    - ${\color{green}CRTL \space + \space Click Esquerdo}$ - **#Cursores/Side Bar** 
 
 Criar Cursor na Linha de cima ou de baixo
- - CRTL + Alt + Setas Cima/Baixo ()
-    - ${\color{green}CRTL \space + \space V}$ - **#Colar** 
+    - ${\color{green}CRTL \space + \space Alt \space + \space Setas Cima/Baixo}$
 
-
-Selecionar um caracter 
- - Shift + Setas Frente/Trás
-    - ${\color{green}CRTL \space + \space V}$ - **#Colar** 
-
-
-Você Seleciona Pulando a palavra
- - CRTL + Shift + Setas Frente/Trás
-    - ${\color{green}CRTL \space + \space V}$ - **#Colar** 
-
+Uma das coisas que me chama atenção é a versatilidade é a forma para cominar Funções, como o proximo exemplo.
+- Com o Shift podemos selecionar caracter, e com o Crtl e setas, podemos pular as palavras, juntando os dois 🤯
+    - ${\color{green}Shift \space + \space Setas Frente/Trás}$ - **#Selecionar** 
+    - ${\color{green}CRTL \space + \space Shift \space + \space Setas Frente/Trás}$ - **#Selecionar Pulando a palavra** 
 
 É possivel movimentar uma linha interira (Ou mais se tiverem Cursores nelas) para Subir ou Descer.
- - Shift + CRTL + Setas Cima/Baixo
-    - ${\color{green}CRTL \space + \space V}$ - **#Colar** 
+    - ${\color{green}CRTL \space + \space Shift \space + \space Setas Cima/Baixo}$ - **#Mover Linha** 
 
-
-
-Fazer Zoom In e Zoom Out
- - CRTL + Scrolock Frente ou trás
-    - ${\color{green}CRTL \space + \space V}$ - **#Colar** 
-
+Para aumentar a letra no Editor você consegue fazer Zoom In e Zoom Out
+    - ${\color{green}CRTL \space + \space Scrolock Frente/Trás}$ - **#Zoom In/Out** 
 
 Apagar uma Linha Inteira (sem selecionar nenhuma palavra)
- - Shift + Delete
-    - ${\color{green}CRTL \space + \space V}$ - **#Colar** 
-
+    - ${\color{green}Shift \space + \space Delete}$ - **#Apagar Linha** 
 
 Função para transformar a palavra Selecionada em Maiuscolo ou Minusculo
- - CRTL + K + U (Uppercase)
- - CRTL + K + L (Lowercase)
-    - ${\color{green}CRTL \space + \space V}$ - **#Colar** 
-    - ${\color{green}CRTL \space + \space V}$ - **#Colar** 
-
+    - ${\color{green}CRTL \space + \space K \space + \space U}$ - **#Uppercase** 
+    - ${\color{green}CRTL \space + \space K \space + \space L}$ - **#Lowercase** 
 
 Para criar Grupos de dentro da Side Bar Open File para separar arquivos e Comparar de forma simultanea
- - Shift + Alt + 2 ou 3 ou 4 ou 1
+ - ${\color{green}Shift \space + \space Alt \space + \space 2 \space ou \space 3 \space ou \space 4 \space ou \space 1}$ - **#Lowercase** 
+
 ____________________________________________________________________________________________________________
 Scrolock
  - Aperte o Scrolock (Botão do meio do mouse) para fazer uma Seleção em multiplas linhas e em linha reta, ou em pedaços
