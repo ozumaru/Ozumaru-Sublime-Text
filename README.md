@@ -22,7 +22,7 @@ Então bora juntos conhecer essa ferramenta.
 # 
 <h1>
   <p align="center">  😎 A Estrada até aqui! 🤓</p>
-  <p align="center"><img title="Readme" src="" alt="README" ></p>
+  <p align="center"><img title="Readme" src="https://github.com/ozumaru/Ozumaru-Sublime-Text-/blob/main/Road_so_far.gif" alt="README" ></p>
 </h1>
  - [Atalhos que venho Colhecionando]()
 
