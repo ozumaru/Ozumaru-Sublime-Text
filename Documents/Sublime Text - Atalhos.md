@@ -18,7 +18,7 @@ Esse atalho tem duas funções em cima de uma só.
 
 - Quando erramos algo, podemos retornar uma ação ação ou Retornar o que foi Retornado (É engraçado depois que você aprende a usar a ferramenta, porque pra explicar depois acaba saindo umas onomatopeias dessas 🤣)
     - ${\color{green}CRTL \space + \space Z}$ - **#Retroceder** 
-    - ${\color{green}CRTL \space + \space Shift \space + \space Z}$ - **#Retornar o que foi um Erro** 
+    - ${\color{green}CRTL \space + \space SHIFT \space + \space Z}$ - **#Retornar o que foi um Erro** 
 
 
 Existe uma combinação muito util que ajuda você a **Procurar** uma palavra que se repete muitas vezes no texto, e você precisa que, independente de onde ela estaja, **TODAS** sejam editadas ao mesmo tempo.
@@ -32,7 +32,7 @@ Existe uma combinação muito util que ajuda você a **Procurar** uma palavra qu
 
 
 Mas também temos um atalho muito rapido para esse caminho todo dito acima, porem existem duas maneiras dependendo do tipo de teclado que você está usando, e tome muito cuidado, pois o caminho para esse atalho está colado com a tecla F4, e pode fechar o que você está fazendo. 👹
-- Comece por Selecionar a palvra que você deseja procurar no texto, mas se o seu teclado tiver o FN (**Function**) precione ela junto com o Alt conforme abaixo, caso não tenha FN, segue direto pro Alt.
+- Comece por Selecionar a palvra que você deseja procurar no texto, mas se o seu teclado tiver o FN (**Function**) precione ela junto com o ALT conforme abaixo, caso não tenha FN, segue direto pro Alt.
     - ${\color{green}FN \space + \space ALT \space + \space F3}$ - **#Localizar e Selecionar** 
     - ${\color{green}ALT \space + \space F3}$ - **#Localizar e Selecionar** 
 
@@ -49,28 +49,28 @@ Esse atalho tem duas funções muito interessante.
     - ${\color{green}CRTL \space + \space Click Esquerdo}$ - **#Cursores/Side Bar** 
 
 - Criar Cursor na Linha de cima ou de baixo
-    - ${\color{green}CRTL \space + \space Alt \space + \space Setas \space Cima/Baixo}$
+    - ${\color{green}CRTL \space + \space ALT \space + \space Setas \space Cima/Baixo}$
 
 Uma das coisas que me chama atenção é a versatilidade é a forma para cominar Funções, como o proximo exemplo.
-- Com o Shift podemos selecionar caracter, e com o Crtl e setas, podemos pular as palavras, juntando os dois 🤯
-    - ${\color{green}Shift \space + \space Setas \space Frente/Trás}$ - **#Selecionar** 
-    - ${\color{green}CRTL \space + \space Shift \space + \space Setas \space Frente/Trás}$ - **#Selecionar Pulando a palavra** 
+- Com o SHIFT podemos selecionar caracter, e com o Crtl e setas, podemos pular as palavras, juntando os dois 🤯
+    - ${\color{green}SHIFT \space + \space Setas \space Frente/Trás}$ - **#Selecionar** 
+    - ${\color{green}CRTL \space + \space SHIFT \space + \space Setas \space Frente/Trás}$ - **#Selecionar Pulando a palavra** 
 
 - É possivel movimentar uma linha interira (Ou mais se tiverem Cursores nelas) para Subir ou Descer.
-    - ${\color{green}CRTL \space + \space Shift \space + \space Setas \space Cima/Baixo}$ - **#Mover Linha** 
+    - ${\color{green}CRTL \space + \space SHIFT \space + \space Setas \space Cima/Baixo}$ - **#Mover Linha** 
 
 - Para aumentar a letra no Editor você consegue fazer Zoom In e Zoom Out
     - ${\color{green}CRTL \space + \space Scrolock \space Frente/Trás}$ - **#Zoom In/Out** 
 
 - Apagar uma Linha Inteira (sem selecionar nenhuma palavra)
-    - ${\color{green}Shift \space + \space Delete}$ - **#Apagar Linha** 
+    - ${\color{green}SHIFT \space + \space Delete}$ - **#Apagar Linha** 
 
 - Função para transformar a palavra Selecionada em Maiuscolo ou Minusculo
     - ${\color{green}CRTL \space + \space K \space + \space U}$ - **#Uppercase** 
     - ${\color{green}CRTL \space + \space K \space + \space L}$ - **#Lowercase** 
 
 - Para criar Grupos de dentro da Side Bar Open File para separar arquivos e Comparar de forma simultanea
-    - ${\color{green}Shift \space + \space Alt \space + \space 2 \space ou \space 3 \space ou \space 4 \space ou \space 1}$ - **#Criar Grupos de Side Bar Laterais** 
+    - ${\color{green}SHIFT \space + \space ALT \space + \space 2 \space ou \space 3 \space ou \space 4 \space ou \space 1}$ - **#Criar Grupos de Side Bar Laterais** 
 
 ____________________________________________________________________________________________________________
 Scrolock
