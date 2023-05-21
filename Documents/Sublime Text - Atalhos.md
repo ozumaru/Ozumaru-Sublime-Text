@@ -9,7 +9,7 @@ Esses foram os que eu venho armazendo e utilizando a finco, pois ajuda muito em 
     -  **Ctrl + C** **#Copiar**
     -  **Ctrl + V** **#Colar** 
 
-<span style="color:blue">some *This is Blue italic.* text</span>
+<span style="color:red">some *This is Blue italic.* text</span>
     
 Esse atalho tem duas funções em cima de uma só.
  - Podemos Duplicar uma Linha inteira, somente deixando o cursor sem selecionar nenhuma palavra.
