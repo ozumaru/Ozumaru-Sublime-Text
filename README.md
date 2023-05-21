@@ -25,7 +25,7 @@ Então bora juntos conhecer essa ferramenta. 🤩
   <p align="center"><img title="Readme" src="https://github.com/ozumaru/Ozumaru-Sublime-Text-/blob/main/Road_so_far.gif" alt="README" height="380" wight="240"></p>
 </h1>
  
- - [Atalhos que venho Colecionando](https://github.com/ozumaru/Ozumaru-Sublime-Text-/blob/main/Documents/Sublime%20Text%20-%20Atalhos.txt)
+ - [Atalhos que venho Colecionando](https://github.com/ozumaru/Ozumaru-Sublime-Text-/blob/main/Documents/Sublime%20Text%20-%20Atalhos.md)
 
 ## Referencial Bibliografico
  - Download
