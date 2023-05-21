@@ -49,18 +49,18 @@ Esse atalho tem duas funções muito interessante.
     - ${\color{green}CRTL \space + \space Click Esquerdo}$ - **#Cursores/Side Bar** 
 
 - Criar Cursor na Linha de cima ou de baixo
-    - ${\color{green}CRTL \space + \space Alt \space + \space Setas Cima/Baixo}$
+    - ${\color{green}CRTL \space + \space Alt \space + \space Setas \space Cima/Baixo}$
 
 Uma das coisas que me chama atenção é a versatilidade é a forma para cominar Funções, como o proximo exemplo.
 - Com o Shift podemos selecionar caracter, e com o Crtl e setas, podemos pular as palavras, juntando os dois 🤯
-    - ${\color{green}Shift \space + \space Setas Frente/Trás}$ - **#Selecionar** 
-    - ${\color{green}CRTL \space + \space Shift \space + \space Setas Frente/Trás}$ - **#Selecionar Pulando a palavra** 
+    - ${\color{green}Shift \space + \space Setas \space Frente/Trás}$ - **#Selecionar** 
+    - ${\color{green}CRTL \space + \space Shift \space + \space Setas \space Frente/Trás}$ - **#Selecionar Pulando a palavra** 
 
 - É possivel movimentar uma linha interira (Ou mais se tiverem Cursores nelas) para Subir ou Descer.
-    - ${\color{green}CRTL \space + \space Shift \space + \space Setas Cima/Baixo}$ - **#Mover Linha** 
+    - ${\color{green}CRTL \space + \space Shift \space + \space Setas \space Cima/Baixo}$ - **#Mover Linha** 
 
 - Para aumentar a letra no Editor você consegue fazer Zoom In e Zoom Out
-    - ${\color{green}CRTL \space + \space Scrolock Frente/Trás}$ - **#Zoom In/Out** 
+    - ${\color{green}CRTL \space + \space Scrolock \space Frente/Trás}$ - **#Zoom In/Out** 
 
 - Apagar uma Linha Inteira (sem selecionar nenhuma palavra)
     - ${\color{green}Shift \space + \space Delete}$ - **#Apagar Linha** 
@@ -69,8 +69,8 @@ Uma das coisas que me chama atenção é a versatilidade é a forma para cominar
     - ${\color{green}CRTL \space + \space K \space + \space U}$ - **#Uppercase** 
     - ${\color{green}CRTL \space + \space K \space + \space L}$ - **#Lowercase** 
 
-Para criar Grupos de dentro da Side Bar Open File para separar arquivos e Comparar de forma simultanea
- - ${\color{green}Shift \space + \space Alt \space + \space 2 \space ou \space 3 \space ou \space 4 \space ou \space 1}$ - **#Lowercase** 
+- Para criar Grupos de dentro da Side Bar Open File para separar arquivos e Comparar de forma simultanea
+    - ${\color{green}Shift \space + \space Alt \space + \space 2 \space ou \space 3 \space ou \space 4 \space ou \space 1}$ - **#Criar Grupos de Side Bar Laterais** 
 
 ____________________________________________________________________________________________________________
 Scrolock
