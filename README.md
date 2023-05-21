@@ -3,8 +3,8 @@
 Venho apresentar a vocês, uma ferramenta que é o meu chodó, eu a utilizo a anos a fio, a cada dia que passa eu sigo aprendentando mais e mais com ela, o mais incrivel é que cada coisa que aprendo, sempre foi com base em uma Precisão, e dempre, essa ferramenta me surpreendeu, pois o que eu precisava ela tinha de bate e pronto. 👾
 
 <h1>
-  <p align="center">  😎 A Estrada até aqui! 🤓</p>
-  <p align="center"><img title="Readme" src="https://github.com/ozumaru/Ozumaru-Sublime-Text-/blob/main/Sublime-Text_Logo.png" alt="README" ></p>
+  <p align="center">⚡ Sublime Text ⚡</p>
+  <p align="center"><img title="Readme" src="https://github.com/ozumaru/Ozumaru-Sublime-Text-/blob/main/Sublime-Text_Logo.png" alt="README" height="500" wight="500"></p>
 </h1>
 
 O que mais se destaca nela é a utilização de Atalhos, e isso torna o seu trabalho muito mais rapido, é claro, se você tem o costume de utilizar Editor de Texto, mas se não tem o costume, eu aconselho fortemente a usar, pois é algo que conforme mais você usa, coisas novas você aprende e de certo modo, até mesmo o seu raciocinio para certas tarefas ficam mais rapidas, mas uma coisa é certa, o Sublime Text é uma ótima ferramenta para quem manipula uma grande quantidade de dados.
