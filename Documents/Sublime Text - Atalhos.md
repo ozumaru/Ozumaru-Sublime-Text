@@ -83,6 +83,11 @@ Se você jogar um texto somente com Espaço, ele vai colar aquela linha na Mesma
   <p align="center"><img title="Readme" src="https://github.com/ozumaru/Ozumaru-Sublime-Text/blob/main/Documents/Scroll_Lock.gif" alt="README" height="340" wight="200"></p>
 </h1>
 
+<h1>
+  <p align="center">  😎 A Estrada até aqui! 🤓</p>
+  <p align="center"><img title="Readme" src="https://github.com/ozumaru/Ozumaru-Sublime-Text-/blob/main/Road_so_far.gif" alt="README" height="380" wight="240"></p>
+</h1>
+
 Geralmente o nosso Mouse tem um 3 Botões, os **Click Direto/Esquerdo** e o chamado Scroll lock, além de subir e descer paginas que tem rolamento, ele também fecha guia de Browser, e no Sublime Text, com ele podemos realizar outras formas de Seleção, Selecionando pedaços de blocos em linha reta de cima a baixo, de baixo pra cima, com por exemplo um "Espaços" (Como explicado acima).
 
  - Aperte o **Scroll Lock** para fazer uma **Seleção em multiplas linhas** e em linha reta.
