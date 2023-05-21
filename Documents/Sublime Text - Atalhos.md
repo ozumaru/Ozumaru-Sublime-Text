@@ -9,7 +9,7 @@ Esses foram os que eu venho armazendo e utilizando a finco, pois ajuda muito em 
     - {c:red}**Ctrl + C**{/c} **#Copiar**
     - {c:red}**Ctrl + V**{/c} **#Colar**
 
-Este é um {c:red}texto vermelho.{/c}
+<font color=\"red\">Texto com cor vermelha</font>
     
 Esse atalho tem duas funções em cima de uma só.
  - Podemos Duplicar uma Linha inteira, somente deixando o cursor sem selecionar nenhuma palavra.
