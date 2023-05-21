@@ -4,7 +4,7 @@ Venho apresentar a vocês, uma ferramenta que é o meu chodó, eu a utilizo a an
 
 <h1>
   <p align="center">⚡ Sublime Text ⚡</p>
-  <p align="center"><img title="Readme" src="https://github.com/ozumaru/Ozumaru-Sublime-Text-/blob/main/Sublime-Text_Logo.png" alt="README" height="350" wight="350"></p>
+  <p align="center"><img title="Readme" src="https://github.com/ozumaru/Ozumaru-Sublime-Text-/blob/main/Sublime-Text_Logo.png" alt="README" height="250" wight="250"></p>
 </h1>
 
 O que mais se destaca nela é a utilização de Atalhos, e isso torna o seu trabalho muito mais rapido, é claro, se você tem o costume de utilizar Editor de Texto, mas se não tem o costume, eu aconselho fortemente a usar, pois é algo que conforme mais você usa, coisas novas você aprende e de certo modo, até mesmo o seu raciocinio para certas tarefas ficam mais rapidas, mas uma coisa é certa, o Sublime Text é uma ótima ferramenta para quem manipula uma grande quantidade de dados.
