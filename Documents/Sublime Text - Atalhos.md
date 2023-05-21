@@ -1,5 +1,13 @@
 ## Atalhos
 
+a[href='red'] {
+    color: red;
+    pointer-events: none;
+    cursor: default;
+    text-decoration: none;
+}
+<a href="red">Look, ma! Red!</a>
+
 Tudo começa com um Copiar e Colar, depois um Desfazer, Procurar, e logo tem uma Coleção de Atalhos.
 Esses foram os que eu venho armazendo e utilizando a finco, pois ajuda muito em meus manejos de dados.
 
