@@ -72,7 +72,7 @@ A Diferença do Espaço para o Tab é a Tabulação a Tabulação no Excel é id
 Se você jogar um texto somente com Espaço, ele vai colar aquela linha na Mesma Celula, já com a Tabulação, ele avança para a Celula posterior.
 
 - ${\color{green}Tecla \space Espaço \space = \space .}$
-- ${\color{green}Tecla \space Tab \space = \space __}$
+- ${\color{green}Tecla \space Tab \space = \space --}$
 
 ## Busca rapida de Plavras Existente no Texto
 
