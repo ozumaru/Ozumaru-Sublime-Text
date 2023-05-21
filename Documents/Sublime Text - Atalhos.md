@@ -1,13 +1,5 @@
 ## Atalhos
 
-a[href='red'] {
-    color: red;
-    pointer-events: none;
-    cursor: default;
-    text-decoration: none;
-}
-<a href="red">Look, ma! Red!</a>
-
 Tudo começa com um Copiar e Colar, depois um Desfazer, Procurar, e logo tem uma Coleção de Atalhos.
 Esses foram os que eu venho armazendo e utilizando a finco, pois ajuda muito em meus manejos de dados.
 
@@ -17,7 +9,7 @@ Esses foram os que eu venho armazendo e utilizando a finco, pois ajuda muito em 
     -  **Ctrl + C** **#Copiar**
     -  **Ctrl + V** **#Colar** 
 
-{color: green} **This is Red Bold.** {/color}
+<code style="color : name_color">text</code>
     
 Esse atalho tem duas funções em cima de uma só.
  - Podemos Duplicar uma Linha inteira, somente deixando o cursor sem selecionar nenhuma palavra.
