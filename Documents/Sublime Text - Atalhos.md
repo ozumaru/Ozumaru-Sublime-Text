@@ -9,7 +9,9 @@ Esses foram os que eu venho armazendo e utilizando a finco, pois ajuda muito em 
     -  **Ctrl + C** **#Copiar**
     -  **Ctrl + V** **#Colar** 
 
-    - ${\color{red}Ctrl \space + \space X}$
+    - ${\color{red}Ctrl \space + \space X}$ **#Recortar**
+    - ${\color{red}Ctrl \space + \space C}$ **#Copiar**
+    - ${\color{red}Ctrl \space + \space V}$ **#Colar** 
     
 Esse atalho tem duas funções em cima de uma só.
  - Podemos Duplicar uma Linha inteira, somente deixando o cursor sem selecionar nenhuma palavra.
