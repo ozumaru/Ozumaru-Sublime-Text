@@ -76,7 +76,7 @@ Se você jogar um texto somente com Espaço, ele vai colar aquela linha na Mesma
 
 ## Busca rapida de Plavras Existente no Texto
 
-- Ao Escrever uma palavra já existente no Texto, ao utilizar o **TAB** o proprio Sublime mostra quais as possibilidades de palavras existem no texto com aqueles Caracteres, com o teclado direcional (Setas Cima/Baixo) você escolhe a palavra, e o Enter para aplicar.
+Ao Escrever uma palavra já existente no Texto, ao utilizar o **TAB** o proprio Sublime mostra quais as possibilidades de palavras existem no texto com aqueles Caracteres, com o teclado direcional (Setas Cima/Baixo) você escolhe a palavra, e o Enter para aplicar.
 
 <h1>
   <p align="center">🐭 Scroll Lock 🐭</p>
