@@ -72,8 +72,12 @@ Uma das coisas que me chama atenção é a versatilidade é a forma para cominar
 - Para criar Grupos de dentro da Side Bar Open File para separar arquivos e Comparar de forma simultanea
     - ${\color{green}SHIFT \space + \space ALT \space + \space 2 \space ou \space 3 \space ou \space 4 \space ou \space 1}$ - **#Criar Grupos de Side Bar Laterais** 
 
-____________________________________________________________________________________________________________
-Scrolock
+# Scrolock
+
+<h1> 
+  <p align="center"><img title="Readme" src="https://github.com/ozumaru/Ozumaru-Sublime-Text/blob/main/Documents/Scroll_Lock.gif" alt="README" height="380" wight="240"></p>
+</h1>
+
  - Aperte o Scrolock (Botão do meio do mouse) para fazer uma Seleção em multiplas linhas e em linha reta, ou em pedaços
 
 Espaço e Tabulação
@@ -86,3 +90,5 @@ Espaço e Tabulação
 
 Busca rapida de Plavras Existente no Texto
     Ao Escrever uma palavra já existente no Texto, utilizando o TAB o proprio Sublime mostra quais as possibilidades de palabras existem no texto com aqueles Caracteres, com o teclado direcional (Setas Cima/Baixo) você escolhe a palavra, e o Enter para aplicar.
+
+
