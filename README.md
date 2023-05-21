@@ -1,4 +1,4 @@
-# Ozumaru Sublime Text 👽
+# 👽 Sublime Text 👽
 
 Venho apresentar a vocês, uma ferramenta que é o meu chodó, eu a utilizo a anos a fio, a cada dia que passa eu sigo aprendentando mais e mais com ela, o mais incrivel é que cada coisa que aprendo, sempre foi com base em uma Precisão, e dempre, essa ferramenta me surpreendeu, pois o que eu precisava ela tinha de bate e pronto. 👾
 
