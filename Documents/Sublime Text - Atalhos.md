@@ -48,7 +48,7 @@ Esse atalho tem duas funções muito interessante.
  - Ou clicar em outros Arquivos que estão na **Side Bar** para criar Comparações em Janelas
     - ${\color{green}CRTL \space + \space Click Esquerdo}$ - **#Cursores/Side Bar** 
 
-Criar Cursor na Linha de cima ou de baixo
+- Criar Cursor na Linha de cima ou de baixo
     - ${\color{green}CRTL \space + \space Alt \space + \space Setas Cima/Baixo}$
 
 Uma das coisas que me chama atenção é a versatilidade é a forma para cominar Funções, como o proximo exemplo.
@@ -56,16 +56,16 @@ Uma das coisas que me chama atenção é a versatilidade é a forma para cominar
     - ${\color{green}Shift \space + \space Setas Frente/Trás}$ - **#Selecionar** 
     - ${\color{green}CRTL \space + \space Shift \space + \space Setas Frente/Trás}$ - **#Selecionar Pulando a palavra** 
 
-É possivel movimentar uma linha interira (Ou mais se tiverem Cursores nelas) para Subir ou Descer.
+- É possivel movimentar uma linha interira (Ou mais se tiverem Cursores nelas) para Subir ou Descer.
     - ${\color{green}CRTL \space + \space Shift \space + \space Setas Cima/Baixo}$ - **#Mover Linha** 
 
-Para aumentar a letra no Editor você consegue fazer Zoom In e Zoom Out
+- Para aumentar a letra no Editor você consegue fazer Zoom In e Zoom Out
     - ${\color{green}CRTL \space + \space Scrolock Frente/Trás}$ - **#Zoom In/Out** 
 
-Apagar uma Linha Inteira (sem selecionar nenhuma palavra)
+- Apagar uma Linha Inteira (sem selecionar nenhuma palavra)
     - ${\color{green}Shift \space + \space Delete}$ - **#Apagar Linha** 
 
-Função para transformar a palavra Selecionada em Maiuscolo ou Minusculo
+- Função para transformar a palavra Selecionada em Maiuscolo ou Minusculo
     - ${\color{green}CRTL \space + \space K \space + \space U}$ - **#Uppercase** 
     - ${\color{green}CRTL \space + \space K \space + \space L}$ - **#Lowercase** 
 
