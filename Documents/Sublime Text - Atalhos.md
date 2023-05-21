@@ -46,7 +46,7 @@ Mas também temos um atalho muito rapido para esse caminho todo dito acima, pore
 Esse atalho tem duas funções muito interessante.
  - Pode criar Cursores em pontos outros pontos do texto para editar
  - Ou clicar em outros Arquivos que estão na **Side Bar** para criar Comparações em Janelas
-    - ${\color{green}CRTL \space + \space Click Esquerdo}$ - **#Cursores/Side Bar** 
+    - ${\color{green}CRTL \space + \space Click \space Esquerdo}$ - **#Cursores/Side Bar** 
 
 - Criar Cursor na Linha de cima ou de baixo
     - ${\color{green}CRTL \space + \space ALT \space + \space Setas \space Cima/Baixo}$
