@@ -23,6 +23,11 @@ Então bora juntos conhecer essa ferramenta. 🤩
   <h1><p align="center">  😎 A Estrada até aqui! 🤓</p></h1>
   <p align="center"> <img src="https://github.com/ozumaru/Ozumaru-Sublime-Text/blob/main/Road_so_far.gif" width="700">
 </p>
+
+<h1>
+  <p align="center">  😎 A Estrada até aqui! 🤓</p>
+  <p align="center"><img src="https://github.com/ozumaru/Ozumaru-Sublime-Text/blob/main/Road_so_far.gif" width="700">
+</h1>
  
 # Documentação da minha Autoria
  - [Atalhos que venho Colecionando](https://github.com/ozumaru/Ozumaru-Sublime-Text/blob/main/Documents/Sublime%20Text%20-%20Atalhos.md)
